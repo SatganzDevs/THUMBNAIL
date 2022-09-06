@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SatganzDevs/THUMBNAIL/blob/master/PROFIL%20PICTURE/pp5.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://raw.githubusercontent.com/SatganzDevs/THUMBNAIL/master/PROFIL%20PICTURE/pp5.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Satganz Devs</h1>
 <p align="center">
