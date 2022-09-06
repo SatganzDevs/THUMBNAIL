@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://raw.githubusercontent/SatganzDevs/THUMBNAIL/PROFILE-PICTURE/pp5.jpg
+
+" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Satganz Devs</h1>
 <p align="center">
